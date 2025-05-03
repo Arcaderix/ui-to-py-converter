@@ -45,30 +45,6 @@ python app.py
 - **Convert**: Click the "Convert" button to convert the selected `.ui` file into a `.py` file. The conversion progress will be displayed.
 - **Save**: Once the conversion is complete, click the "Save" button to save the `.py` file to your chosen directory.
 
-## Screenshots
-
-(Optional: Add screenshots here to show the interface and how it works)
-
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-## Acknowledgments
-
-- Thanks to the Qt and Tkinter documentation for providing useful information.
-- Thanks to PyQt5 for making the `.ui` to `.py` conversion possible using `pyuic5`.
-
----
-
-## Explanation of Sections:
-
-1. **Title and Overview**: Describes the purpose of the project.
-2. **Features**: Highlights the core functionalities of the app.
-3. **Requirements**: Lists the necessary tools and libraries, such as Python, `pyuic5`, and Tkinter.
-4. **How to Run**: Provides clear instructions on how to clone the repository and run the application.
-5. **How to Use**: Describes how the user can interact with the app.
-6. **Screenshots**: Optionally, you can add screenshots to visually show how the app looks and works.
-7. **License**: Includes licensing information (you can adjust this based on your license choice).
-8. **Acknowledgments**: Credit to resources or libraries used in the project.
-
-Feel free to modify the instructions according to your repository and project details.
